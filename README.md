@@ -29,6 +29,7 @@ This is a simple React-based quiz application that presents a series of question
    npm install
    ```
    ## Live link
+   You can check live demo (https://splendorous-pothos-ea1fdd.netlify.app/)
 ![Qiz](public/quiz.png)
 ![resilt](public/result.png)
 ## Usage
